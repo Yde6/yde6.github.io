@@ -1,5 +1,5 @@
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(400, 500);
 }
 
 function draw() {
@@ -15,7 +15,7 @@ function draw() {
   let rightleg = 300
   let leftleg = 300
   
-  line(x,y,c,y)
+  
   
   
   circle(c+x,y,headsize);
