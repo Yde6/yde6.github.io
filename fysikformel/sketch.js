@@ -13,7 +13,6 @@ function draw() {
     n++;
 
   }else (noloop();{
-n
 }
 }
 
