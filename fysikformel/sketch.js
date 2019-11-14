@@ -12,8 +12,8 @@ function draw() {
   if(n < 10){
     n++;
 
-  }else if(n >10){
-noloop();
+  }else (noloop();{
+n
 }
 }
 
