@@ -12,7 +12,7 @@ function draw() {
   if(n < 10){
     n++;
 
-  }else (noloop();{
+  }else noloop();{
 }
 }
 
